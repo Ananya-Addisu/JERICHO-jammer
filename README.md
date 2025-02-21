@@ -1,5 +1,5 @@
 # Remote UAV Attacks & Disruption of Their Operation | MAVlink Protocol
-Remote Drones Attacks &amp; Disruption of Their Operation, Ariel University Final Project, 2020
+Remote Drones Attacks &amp; Disruption of Their Operation, part of the JERICHO Project
 
 ## Introduction
 There are various types of communication channels between a drone and its base station.
