@@ -1,5 +1,5 @@
 import logging
-import os as os
+import os
 import time
 from threading import Thread
 from tkinter import *
