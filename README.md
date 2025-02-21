@@ -9,7 +9,6 @@ By doing it that we can also investigate and implement security and defense meas
 
 We will focus on the **MAVLink** which is a communication protocol for UAV systems, which specifies a comprehensive set of messages exchanged between unmanned systems and ground stations (GCS). The protocol is used in major autopilot systems, mainly ArduPilot¹ and PX4.
 
-#### **29/12/2020**
 
 So far, we have learned some of the MAVLink security requirements, threats, and possible solutions, while focusing on the attack characteristics and UAV protection options that are more common in the protocol, with the intention of deepening the knowledge and exploring additional ways and / or improving the existing situation.
 
