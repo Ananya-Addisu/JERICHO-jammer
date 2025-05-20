@@ -147,7 +147,6 @@ class WiFiScan:
 
         sniff(prn=self.callback, iface=self.interface, timeout=10)
 
-
 if __name__ == '__main__':
     myObj = DronesTaker()
     myObj.run()
